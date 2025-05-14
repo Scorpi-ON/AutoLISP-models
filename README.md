@@ -5,6 +5,10 @@
 
 <details>
   <summary><h2>Скриншоты</h2></summary>
+  <p><a href="./models/holder">Подставка для телефона</a></p>
+  <img src="https://github.com/user-attachments/assets/a5b66648-2894-4bd3-95c4-a8ac220f3e7b" width=70%>
+  <br>
+  <br>
   <p><a href="./models/organizer.lsp">Канцелярский органайзер</a></p>
   <img src="https://github.com/user-attachments/assets/e8a06721-64b0-4a9e-99a6-dbe22a5a988d" width=70%>
   <br>
