@@ -5,7 +5,7 @@
 
 <details>
   <summary><h2>Скриншоты</h2></summary>
-  <p><a href="./models/holder">Подставка для телефона</a></p>
+  <p><a href="./models/holder.lsp">Подставка для телефона</a></p>
   <img src="https://github.com/user-attachments/assets/a5b66648-2894-4bd3-95c4-a8ac220f3e7b" width=70%>
   <br>
   <br>
