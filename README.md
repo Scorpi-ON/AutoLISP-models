@@ -5,31 +5,31 @@
 
 <details>
   <summary><h2>Скриншоты</h2></summary>
-  <p><a href="./models/holder.lsp">Подставка для телефона</a></p>
+  <p><a href="./complex/holder.lsp">Подставка для телефона</a></p>
   <img src="https://github.com/user-attachments/assets/a5b66648-2894-4bd3-95c4-a8ac220f3e7b" width=70%>
   <br>
   <br>
-  <p><a href="./models/organizer.lsp">Канцелярский органайзер</a></p>
+  <p><a href="./complex/organizer.lsp">Канцелярский органайзер</a></p>
   <img src="https://github.com/user-attachments/assets/e8a06721-64b0-4a9e-99a6-dbe22a5a988d" width=70%>
   <br>
   <br>
-  <p><a href="./models/extender.lsp">Удлинитель</a></p>
+  <p><a href="./complex/extender.lsp">Удлинитель</a></p>
   <img src="https://github.com/user-attachments/assets/eb5b976c-de2e-414d-9cde-4782961f7f4d" width=70%>
   <br>
   <br>
-  <p><a href="./models/lamp.lsp">Настольная лампа</a></p>
+  <p><a href="./complex/lamp.lsp">Настольная лампа</a></p>
   <img src="https://github.com/user-attachments/assets/efef61ce-982e-4efe-b506-47ef1a2cb51f" width=70%>
   <br>
   <br>
-  <p><a href="./models/budilnik.lsp">Будильник</a></p>
+  <p><a href="./complex/budilnik.lsp">Будильник</a></p>
   <img src="https://github.com/user-attachments/assets/40729233-ffe4-4ea2-b9c8-dc686d952f6a" width=70%>
   <br>
   <br>
-  <p><a href="./models/router.lsp">Wi-Fi роутер</a></p>
+  <p><a href="./complex/router.lsp">Wi-Fi роутер</a></p>
   <img src="https://github.com/user-attachments/assets/e47a6fe7-ed08-4b6b-9a1d-4ace917a9ed4" width=70%>
   <br>
   <br>
-  <p><a href="./models/rook.lsp">Шахматная ладья</a></p>
+  <p><a href="./complex/rook.lsp">Шахматная ладья</a></p>
   <img src="https://github.com/user-attachments/assets/4646f659-f0ee-4547-a118-bebe93daeaf3" width=70%>
 </details>
 
